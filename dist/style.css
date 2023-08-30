@@ -166,4 +166,19 @@ html {
     font-weight: 700;
     font-size: 0.85rem;
   }
+
+.carousel {
+  width: 100%;
+  overflow: hidden;
+}
+
+.carousel-item {
+  float: left;
+  width: 100%;
+}
+
+.carousel img {
+  width: 100%;
+  height: auto;
+}
   
