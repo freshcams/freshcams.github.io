@@ -85,6 +85,7 @@ html {
     width: calc(100% - 4px);
     height: calc(100% - 4px);
     border: 2px solid #000000;
+    border-radius: 10px;
   }
   
   /* Headings */
