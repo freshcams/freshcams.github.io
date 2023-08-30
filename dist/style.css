@@ -32,7 +32,7 @@ html {
   
   /* Logo */
   .logo {
-    width: 300px;
+    width: 250px;
     padding: 5px 10px 5px;
   }
   
@@ -46,6 +46,7 @@ html {
     font-weight: 800;
     color: #ffffff;
     border: 2px solid #ffffff;
+    border-radius: 10px;
     text-decoration: none;
     transition: all 0.2s ease-in-out;
     background-color: rgb(3, 3, 3);
@@ -65,6 +66,7 @@ html {
     color: #000000f6;
     font-weight: 800;
     border: 2px solid #ffffff;
+    border-radius: 10px;
     font-family: sans-serif;
   }
 
@@ -87,7 +89,7 @@ html {
   
   /* Headings */
   h1 {
-    margin-top: 5px;  
+    margin-top: 2px;  
     font-size: 25px;
     text-transform: uppercase;
     font-weight: 900;
